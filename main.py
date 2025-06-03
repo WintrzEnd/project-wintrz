@@ -29,3 +29,6 @@ player = Player("Player")
 class Item:
 	def __init__(self, name):
 		self.name = name
+
+cube = Item("Glowing cube")
+
