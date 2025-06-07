@@ -31,4 +31,4 @@ class Item:
 		self.name = name
 
 cube = Item("Glowing cube")
-
+sportsCar = Item("Cool sports car")
