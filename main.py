@@ -9,6 +9,7 @@ class Room:
 room1 = Room("Main Hub", "You are standing in the main hub. Where different portals lead to different worlds.")
 room2 = Room("Cybercafé", "You are standing in the cybercafé of the main hub. The smell of freshly brewed coffee fills the air.")
 room3 = Room("CyDen", "You are in the CyDen, a meeting point for hackers and programmers alike.")
+room4 = Room("Sunset Beach", "You are standing at a beach. The sun is setting over the ocean.")
 
 # TODO: Add more rooms
 
